@@ -164,7 +164,7 @@ to {
 var userName = "";
 var isActive = false;
 	$(document).ready(function() {
-		console.log("document ready!")
+		console.log("Hello Mr.Noolee")
 		userName = "${userName}";
 		isActive = ("true"=="${isActive}");
 		console.log("Current logged in user----> " + userName);
